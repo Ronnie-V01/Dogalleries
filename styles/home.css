@@ -1,0 +1,180 @@
+.circle {
+
+    width: 80vh;
+    height: 80vh;
+    background: #FDA65D;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    position: relative;
+    transform: translate(-20%, -25%);
+  }
+  .navigation {
+    display: flex;
+    justify-content: space-between;
+}
+.navigation-right {
+    width: 70vw;
+    text-align: right;
+    z-index: 3;
+}
+.dogallery_button {
+    background: transparent;
+    color: #636769;
+    font-weight: 300;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-size: 20px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+    font-family: 'Oswald', sans-serif;
+    z-index: 3;
+}
+
+.home_button {
+    background: transparent;
+    background-repeat: no-repeat;
+    color: #636769;
+    font-weight: 300;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-size: 20px;
+    position: relative;
+    float: inline-end;
+    margin-top: 20px;
+    /* margin-left: 60%; */
+    margin-right: 2%;
+    font-family: 'Oswald', sans-serif;
+}
+
+.about_button {
+    background: transparent;
+    background-repeat: no-repeat;
+    color: #636769;
+    font-weight: 300;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-size: 20px;
+    position: relative;
+    float: inline-end;
+    margin-top: 20px;
+    margin-right: 2%;
+    
+    
+    font-family: 'Oswald', sans-serif;
+}
+
+.categories_button {
+    background: transparent;
+    background-repeat: no-repeat;
+    color: #636769;
+    font-weight: 300;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-size: 20px;
+    float: inline-end;
+    position: relative;
+    margin-top: 20px;
+    margin-right: 2%;
+    font-family: 'Oswald', sans-serif;
+}
+.faq_button {
+    background: transparent;
+    background-repeat: no-repeat;
+    color: #636769;
+    font-weight: 300;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-size: 20px;
+    position: relative;
+    float: inline-end;
+    margin-top: 20px;
+    margin-right: 2%;
+    font-family: 'Oswald', sans-serif;
+}
+.contacts_button {
+    background: transparent;
+    background-repeat: no-repeat;
+    color: #636769;
+    font-weight: 300;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-size: 20px;
+    position: relative;
+    float: inline-end;
+    margin-right: 20px;
+    margin-top: 20px;
+    /* margin-left: 2% */
+    font-family: 'Oswald', sans-serif;
+    
+}
+  
+
+  .welcome {
+    width: 40vh;
+    height: 40vh;
+    position: relative;
+    flex-direction:column;
+    margin-top: 30vh;
+    margin-left: 10vh;
+  }
+  .title1 {
+      position: relative;
+      text-align: left;
+      color: #ffffff;
+      font-size: 50px;
+      font-weight: 100;
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+
+  }
+  .title2 {
+    position: relative;
+    text-align: left;
+    color: #F8E2CF;
+    font-family: 'Oswald', sans-serif;
+    font-size: 100px;
+    font-weight: 800;
+    margin: 0;
+
+  }
+
+  .explore_button {
+    width: 30vh;
+    background-color: #FFD8A9;
+    color: black;
+    font-weight: 100;
+    border-radius: 50px;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-size: 18px;
+    position: relative;
+    margin: 4px 2px;
+    text-align: center;
+    padding: 20px;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+}
+  
