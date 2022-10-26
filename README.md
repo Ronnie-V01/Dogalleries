@@ -1,1 +1,1 @@
-# Dogalleries
+# Dogallery
